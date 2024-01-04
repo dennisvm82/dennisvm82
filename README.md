@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dennisvm82&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dennisvm82&show_icons=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennisvm82&layout=compact)
 
