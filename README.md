@@ -14,8 +14,8 @@ iOS Engineer at Ubiregi
 
 ## Current Focus
 - Native iOS development
-- SwiftUI & UIKit
+- SwiftUI
 - App architecture and maintainability
 
 ## Links
-- GitHub: https://github.com/dennisvmazijk
+- GitHub (Work): https://github.com/dennisvmazijk
